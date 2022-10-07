@@ -1,3 +1,4 @@
+// Flask is a micro web framework written in Python.Flask is the choice of most tenderfoots due to the need of barricades to getting a basic app up and running.15-Jun-2022
 from flask import (
     Flask,
     request,
